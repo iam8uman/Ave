@@ -1,6 +1,8 @@
-SumanSharma-Portfolio landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+SumanSharma-Portfolio landing page for personal use.
 
-Product Page: https://wwww.devcrud.com/
+## this is not the ultimate portfolio you can use it according to your needs. 
+Of course you can find components and modify it.
+
 
 Credits:
 
