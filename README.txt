@@ -18,3 +18,8 @@ Credits:
 		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
 		Isotope: 			(https://isotope.metafizzy.co/) 
 		Google Maps:		(https://maps.google.com)
+
+--------------------------------
+## I just update sitemap.xml for this webpage 
+First i generator that xml file using some generator and 
+Then upload this sitemap.xml file to the Search Google Console For SEO ranking.
